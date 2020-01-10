@@ -13,7 +13,7 @@
 | 7   |                                                               |                                                   |
 | 8   |                                                               |                                                   |
 | 9   | Building Todo app using hooks and Design for recruitment list | [Repo](https://github.com/mayanksh99/react-hooks) |
-| 10  |                                                               |                                                   |
+| 10  | Learning context with class component and made some changes in ssb website design| [Repo](https://github.com/dsckiet/kiet-ssb-academy)                                                  |
 | 11  |                                                               |                                                   |
 | 12  |                                                               |                                                   |
 | 13  |                                                               |                                                   |
